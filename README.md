@@ -1,9 +1,5 @@
 # Kethusha - Personal portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/personal-portfolio?style=social)
-
 My portfolio is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
 
@@ -32,4 +28,4 @@ git clone https://github.com/codewithsadee/kethusha-portfolio.git
 
 ## License
 
-MIT
+
